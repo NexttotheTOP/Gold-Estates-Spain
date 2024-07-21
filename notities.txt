@@ -1,0 +1,2 @@
+- XML bevat geen namen ven de huizen ( meer info over structuur en vanwaar deze komen)
+Ook een contact/support tool ? ( mogelijk om de bot ineens veel meer functies te geven )
